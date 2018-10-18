@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-
+    
+"""
+此种写法是python2的写法
+"""
 def fn(self, name='world'): # 先定义函数
     print('Hello, %s.' % name)
 
